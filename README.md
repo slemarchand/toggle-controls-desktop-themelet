@@ -2,7 +2,7 @@
 
 [![npm version](https://badge.fury.io/js/toggle-controls-desktop-themelet.svg)](https://badge.fury.io/js/toggle-controls-desktop-themelet)
 
-A themelet enabling toogle controls for desktop for Liferay 7.2 (since Liferay 7.3 CE GA2 toggle controls for desktop is an [out-of-the-box feature](https://issues.liferay.com/browse/LPS-108216)).
+A themelet enabling toogle controls for desktop for Liferay 7.2 (since Liferay 7.3 CE GA2 this is an [out-of-the-box feature](https://issues.liferay.com/browse/LPS-108216)).
 
 ![Toggle Controls](doc/toggle-controls.gif) 
 
