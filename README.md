@@ -4,6 +4,8 @@
 
 A themelet enabling toogle controls for desktop for Liferay 7.2 (since Liferay 7.3 toggle controls for desktop is an out-of-the-box feature).
 
+![Toggle Controls](doc/toggle-controls.gif) 
+
 ## Install
 
 Go to your theme's root folder and type:
