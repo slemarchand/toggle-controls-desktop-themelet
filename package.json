@@ -1,0 +1,29 @@
+{
+	"name": "toggle-controls-desktop-themelet",
+	"version": "1.0.0",
+	"main": "package.json",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/slemarchand/toggle-controls-desktop-themelet.git"
+	},
+	"author": "Sébastien Le Marchand (https://slemarchand.com/)",
+	"keywords": [
+		"liferay-theme",
+		"liferay",
+		"theme",
+		"themelet",
+		"toggle",
+		"controls",
+		"desktop",
+		"admin",
+		"css",
+		"scss",
+		"sass"
+	],
+	"liferayTheme": {
+		"screenshot": "",
+		"themelet": true,
+		"version": "7.2"
+	}
+}

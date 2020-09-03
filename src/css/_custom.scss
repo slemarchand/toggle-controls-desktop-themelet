@@ -1,0 +1,21 @@
+.control-menu .control-menu-nav-item .toggle-controls.visible-xs {
+	display: inline-block !important;
+}
+
+@media (min-width: 576px) {
+	.controls-hidden {
+		.portlet:hover, .portlet.focus {
+			& > .portlet-topper {
+				display: none !important;
+			}
+
+			& > .portlet-content {
+				border-color: 1px solid transparent !important;
+
+				.visible-interaction {
+					display: none !important;
+				}
+			}
+		}
+	}
+}
